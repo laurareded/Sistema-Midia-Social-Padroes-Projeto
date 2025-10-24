@@ -31,5 +31,4 @@ O diagrama de classes abaixo ilustra as relações de implementação (Adapter),
 ![Diagrama de Classes UML do Padrão Adapter](diagrama/diagrama_integracao_midia_social.png)
 
 
-
-O programa demonstrará no console a publicação bem-sucedida em Twitter, Instagram, LinkedIn e TikTok, além de exemplos de falha com detalhes de erro granular, comprovando a eficácia da arquitetura baseada no Adapter.
+A atividade foi feita pelas alunas: Laura, Maiara e Mariana em sala de aula.
